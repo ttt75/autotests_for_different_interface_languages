@@ -1,0 +1,2 @@
+# autotests_for_different_interface_languages
+autotests for different interface languages on pytest
